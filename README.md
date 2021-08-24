@@ -15,4 +15,4 @@ exports.OWNER_ID = "673081043636453397";
 exports.Owner_Name = "|| 𝔅𝔦𝔩𝔩 ||#2569";
 ```
 
-hange your Bot prefix and other in config.js file
+Change your Bot prefix and other in config.js file
