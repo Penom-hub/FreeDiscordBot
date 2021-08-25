@@ -16,3 +16,10 @@ exports.Owner_Name = "|| 𝔅𝔦𝔩𝔩 ||#2569";
 ```
 
 Change your Bot prefix and other in `config.js` file
+
+## FEATURES
+- Welcome
+- Moderation
+- Admin
+- Utility
+- And Other!
